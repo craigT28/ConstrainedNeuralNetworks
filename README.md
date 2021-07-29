@@ -1,4 +1,8 @@
 # ConstrainedNeuralNetworks
+
+Here are files related to constrained training of neural networks, switched linear projections and dotloss constrained training.
+
+# Abstract
 Training Neural Networks to Behave Using Interpretability Methods
 
 Artificial neural networks are excellent machine learning models but are often referred to as “black boxes”, meaning that the reasoning behind their decisions is obscured. The field of neural network interpretability attempts to explain why these models make the decisions they do.
@@ -9,7 +13,7 @@ Rather than training neural networks only to maximise prediction accuracy, I tra
 
 Finally, I explore an alternative training objective that seeks to replicate the effects of this guided training method but without the need for a predefined set of human expectations.
 
-Files
+# Files
 
 Constrained_Training.ipynb contains mask loss training and SLP interpretability code
 
