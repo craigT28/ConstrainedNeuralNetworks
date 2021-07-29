@@ -11,5 +11,12 @@ Finally, I explore an alternative training objective that seeks to replicate the
 
 Files
 
-Constrained_Training contains mask loss training and SLP interpretability code
-nnet_experiments contains code from denoising and double MNIST experiments
+Constrained_Training.ipynb contains mask loss training and SLP interpretability code
+
+nnet_experiments.ipynb contains code from denoising and double MNIST experiments
+
+dotloss.ipynb contains code focused on Dotloss constrained training
+
+double_mnist_dotloss.ipynb contains the code from the double MNIST experiment run with dotloss
+
+iris_cancer_constrained.ipynb contains code from the experiments on iris-cancer constrained training + dotloss
