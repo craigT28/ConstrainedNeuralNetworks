@@ -9,3 +9,7 @@ Rather than training neural networks only to maximise prediction accuracy, I tra
 
 Finally, I explore an alternative training objective that seeks to replicate the effects of this guided training method but without the need for a predefined set of human expectations.
 
+Files
+
+Constrained_Training contains mask loss training and SLP interpretability code
+nnet_experiments contains code from denoising and double MNIST experiments
